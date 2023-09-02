@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: rgb(198, 220, 238);
+  background-color: rgb(255, 255, 255);
 }
 
 .navbar-collapse {
@@ -32,7 +32,7 @@ h1 {
 
 .seccion-clara {
   color: rgb(13, 14, 15);
-  background-color: rgb(198, 220, 238);
+  background-color:rgb(255, 255, 255);
   font-family: ;
 }
 
@@ -67,7 +67,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: rgb(198, 220, 238);
+  background-color: rgb(255, 255, 255);
   min-height: 450px;
   text-align: center;
 }
@@ -102,11 +102,11 @@ h1 {
 /* Experiencia */
 
 .experiencia {
-  padding: 40px 40px 60px 40px;
+  padding: 60px 60px 60px 60px;
 }
 
 .experiencia .columna {
-  padding: 20px;
+  padding: 30px;
   border: 2px solid #8080804d;
   display: flex;
   flex-direction: column;
